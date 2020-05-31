@@ -1,0 +1,2 @@
+rootProject.name='WeatherForeCast By Gwanwoo'
+include ':app'
